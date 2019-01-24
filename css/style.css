@@ -9,8 +9,10 @@ header {
 
 main {
     border: 2px solid pink;
+    background-color: aqua;
 }
 
 footer{
     border: 3 px solid orange;
+    background-color: darkviolet;
 }
